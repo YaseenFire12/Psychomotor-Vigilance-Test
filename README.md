@@ -3,7 +3,7 @@ Author: Yaseen Ismail
 Creation Date: 1/21/2025
 
 # How to Install:
-Download the latest release. The python release file should open up its window on its own.
+Download the latest release. The python exe release file should open up its window on its own.
 
 # How it Works:
 A red dot will, in short intervals, appear in the middle of the screen. 
