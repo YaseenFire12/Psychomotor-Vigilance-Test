@@ -1,8 +1,8 @@
-# Basic Psychomotive Visual Test
+# Psychomotor Visual Test
 Author: Yaseen Ismail
 Creation Date: 1/21/2025
 
-# What is a Psychomotive Vigilance Test?
+# What is a Psychomotor Vigilance Test?
 A Reaction Time Test where the subject responds to quick visual stimuli. Since Sleep Debt/Deficit is often tied to slower problem solving, lessened alertedness, and declined psychomotor skills, the test is often used to track the speed and accuracy at which one would react to a quick visual cue. Motivation can counteract the effects listed here, too, so that's also why it returns the average reaction time and asks if you want to retry. So you can be pulled to continue to get faster and faster times.
 
 # How to Install:
